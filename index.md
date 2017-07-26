@@ -2,6 +2,10 @@
 
 Du kan vælge at besøge [kennel springerdale](http://springerdale.dk/), hvis du vil læse mere omkring FT Springer Spaniels
 
+her er et billede af Marcus
+![Marcus](https://www.google.dk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj52eG5yabVAhUCyRQKHTzVCMsQjRwIBw&url=http%3A%2F%2Fwww.hundegalleri.dk%2Fgalleri%2Fbilleder%2Fengelsk-springer-spaniel-ft_-marcus%2F29236&psig=AFQjCNG-29QSxODpI_atOfO2imjCifSrIQ&ust=1501145645870792]
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
