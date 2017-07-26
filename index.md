@@ -3,7 +3,7 @@
 Du kan vælge at besøge [kennel springerdale](http://springerdale.dk/), hvis du vil læse mere omkring FT Springer Spaniels
 
 her er et billede af Marcus
-![Marcus](Skrivebord\es)
+![Marcus](http://www.positivt.dk/images27/0334.jpg)
 
 
 ### Markdown
